@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhipinmangadath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhipinmangadath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhipin-mangadath-67a887272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhipin-mangadath-67a887272" height="30" width="40" /></a>
 <a href="https://instagram.com/dhipin mangadath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhipin mangadath" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/getmedhi30eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="getmedhi30eu" height="30" width="40" /></a>
 </p>
